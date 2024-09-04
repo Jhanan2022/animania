@@ -1,55 +1,53 @@
-<style>
-    .product-description-containerr {
-        margin: 0 auto;
-        max-width: 100%;
-        background-color: #ffffff;
-        padding: 20px;
-        border-radius: 15px;
-        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-        font-family: Arial, sans-serif;
-        color: #333;
-        margin-bottom: 15px;
-    }
+.product-description-containerr {
+    margin: 0 auto;
+    max-width: 100%;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin-bottom: 15px;
+}
 
-    .product-titlee {
-        font-size: 26px;
-        color: #ff5d02;
-        margin-bottom: 20px;
-        border-bottom: 2px solid #ff5d02;
-        padding-bottom: 10px;
-    }
+.product-titlee {
+    font-size: 26px;
+    color: #ff5d02;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #ff5d02;
+    padding-bottom: 10px;
+}
 
-    .product-descriptionn {
-        font-size: 16px;
-        margin-bottom: 20px;
-        line-height: 1.6;
-    }
+.product-descriptionn {
+    font-size: 16px;
+    margin-bottom: 20px;
+    line-height: 1.6;
+}
 
-    .product-features-titlee {
-        font-size: 22px;
-        color: #ff5d02;
-        margin-bottom: 15px;
-        border-bottom: 1px solid #ddd;
-        padding-bottom: 5px;
-    }
+.product-features-titlee {
+    font-size: 22px;
+    color: #ff5d02;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+}
 
-    .product-features-listt {
-        padding-left: 20px;
-        list-style-type: disc;
-        margin-bottom: 20px;
-    }
+.product-features-listt {
+    padding-left: 20px;
+    list-style-type: disc;
+    margin-bottom: 20px;
+}
 
-    .product-features-listt li {
-        margin-bottom: 12px;
-    }
+.product-features-listt li {
+    margin-bottom: 12px;
+}
 
-    .product-call-to-actionn {
-        font-size: 18px;
-        margin-top: 20px;
-        text-align: center;
-    }
+.product-call-to-actionn {
+    font-size: 18px;
+    margin-top: 20px;
+    text-align: center;
+}
 
-    .product-call-to-actionn strong {
-        color: #ff5d02;
-    }
-</style>
+.product-call-to-actionn strong {
+    color: #ff5d02;
+}
